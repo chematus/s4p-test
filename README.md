@@ -16,15 +16,24 @@ Test task for **s4p**
 ## Endpoints
 
 `GET /user` Get current user profile
+
 `PUT /user` Update current user profile
+
 `GET /user/:id` Get user profile by his id
+
 `POST /user/signup` User registration endpoint
+
 `POST /user/login` User log in endpoint
 
+
 `GET /content/:id` Get article by its id
+
 `PUT /content/:id` Update article by id
+
 `DELETE /content/:id` Delete article by id
+
 `GET /content` Get all public articles
+
 `POST /content` Post new article
 
 ## Expected input format
